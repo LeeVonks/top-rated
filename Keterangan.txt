@@ -1,0 +1,9 @@
+Folder ini berisikan salah satu poin revisi dari Dosen Penguji 2 Ibu Atik Nurmasani, S.kom, M.Kom pada poin " 11. Tambahkan tampilan front end website untuk implementasi back end khusus fitur yang ditambahkan (diupgrade/dikembangkan) dari project bangkit."
+
+Pada folder ini, terdapat 2 halaman website HTML, yaitu : 
+1. app.html
+2. top-rated.html (implementasi backend fitur top-rated pada frontend Website)
+
+Maturnuwun,
+Muhammad Rossi Pahlevi
+20.12.1557
